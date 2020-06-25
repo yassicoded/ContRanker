@@ -23,5 +23,7 @@ I limited the depth of random forest model to 7 to avoid overfiting. I also elim
 With the trained model, I predicted ADU performance scores and provided a Ranked list of contractors who have built less than 2 ADUs for future Homestead ADU projects.
 
 [Slides link](https://docs.google.com/presentation/d/1R4nccibpYNh5gY2cqWeEwZOTNMzhZImFTqilqU__gO4/edit#slide=id.g89a8987e0f_0_16)
-[Public LA Permits dataset](https://data.lacity.org/A-Prosperous-City/Building-and-Safety-Permit-Information-Old/yv23-pmwf)
-[Public LA inspections dataset](https://data.lacity.org/A-Safe-City/Building-and-Safety-Inspections/9w5z-rg2h)
+
+Datasets:
+1. [Public LA Permits dataset](https://data.lacity.org/A-Prosperous-City/Building-and-Safety-Permit-Information-Old/yv23-pmwf)
+2. [Public LA inspections dataset](https://data.lacity.org/A-Safe-City/Building-and-Safety-Inspections/9w5z-rg2h)
